@@ -1,0 +1,39 @@
+#header1{
+    background-color:teal;
+    color: white;
+}
+
+h1 {
+    font-size: 80px;
+}
+
+#current-city{
+    font-size: 45px;
+}
+
+#fiveDay{
+    font-size: 45px;
+}
+
+#day-1{
+    background-color: teal;
+    color: white;
+}
+
+#day-2{
+    background-color: teal;
+    color: white;
+}
+#day-3{
+    background-color: teal;
+    color: white;
+}
+#day-4{
+    background-color: teal;
+    color: white;
+}
+#day-5{
+    background-color: teal;
+    color: white;
+}
+
